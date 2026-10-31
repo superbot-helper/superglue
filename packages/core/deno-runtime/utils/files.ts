@@ -11,7 +11,7 @@ import { promisify } from "node:util";
 import { Readable, Transform } from "node:stream";
 import { pipeline } from "node:stream/promises";
 import * as XLSX from "npm:xlsx@0.18.5";
-import yaml from "npm:js-yaml@4.1.0";
+import yaml from "npm:js-yaml@4.2.0";
 import JSZip from "npm:jszip@3.10.1";
 import Papa from "npm:papaparse@5.4.1";
 import sax from "npm:sax@1.4.1";

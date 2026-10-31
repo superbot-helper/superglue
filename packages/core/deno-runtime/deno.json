@@ -15,7 +15,7 @@
     "basic-ftp": "npm:basic-ftp@5.3.0",
     "@awo00/smb2": "npm:@awo00/smb2@1.0.5",
     "xlsx": "npm:xlsx@0.18.5",
-    "js-yaml": "npm:js-yaml@4.1.0",
+    "js-yaml": "npm:js-yaml@4.2.0",
     "jszip": "npm:jszip@3.10.1",
     "papaparse": "npm:papaparse@5.4.1",
     "sax": "npm:sax@1.4.1",
